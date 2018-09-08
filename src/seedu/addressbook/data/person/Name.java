@@ -26,6 +26,7 @@ public class Name {
         if (!isValidName(trimmedName)) {
             throw new IllegalValueException(MESSAGE_NAME_CONSTRAINTS);
         }
+
         this.fullName = trimmedName.toUpperCase();
     }
 
