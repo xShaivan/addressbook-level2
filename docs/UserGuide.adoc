@@ -60,6 +60,8 @@ Put a `p` before the phone / email / address prefixes to mark it as `private`. `
 be seen using the `viewall` command.
 
 Persons can have any number of tags (including 0).
+
+EXTRA: All names and emails will automatically be changed to UpperCase after adding to AddressBook.
 ****
 
 Examples:
